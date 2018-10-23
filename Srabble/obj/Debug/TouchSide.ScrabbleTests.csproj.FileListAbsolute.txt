@@ -1,0 +1,15 @@
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\TouchSide.ScrabbleTests.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\TouchSide.ScrabbleTests.pdb
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\TouchSide.exe
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\TouchSide.pdb
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\TouchSide.exe.config
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\obj\Debug\TouchSide.ScrabbleTests.csprojResolveAssemblyReference.cache
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\obj\Debug\TouchSide.ScrabbleTests.dll
+C:\Users\f4983610\Documents\Visual Studio 2017\Projects\TouchSide\Srabble\obj\Debug\TouchSide.ScrabbleTests.pdb

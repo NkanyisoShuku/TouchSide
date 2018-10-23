@@ -1,0 +1,6 @@
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\bin\Debug\TouchSide.exe.config
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\bin\Debug\TouchSide.exe
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\bin\Debug\TouchSide.pdb
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\obj\Debug\TouchSide.csprojResolveAssemblyReference.cache
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\obj\Debug\TouchSide.exe
+c:\users\f4983610\documents\visual studio 2017\Projects\TouchSide\TouchSide\obj\Debug\TouchSide.pdb
